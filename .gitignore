@@ -48,3 +48,6 @@ venv.bak/
 ### BASIC NODE GITIGNORE
 # Ignore config and node files.
 node_modules/
+.vscode/
+web/
+dist/
